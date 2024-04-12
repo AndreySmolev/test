@@ -1,0 +1,1 @@
+{"version":"0","body":{"type":"sign-raw-payload","response_options":{"broadcast":false,"callback_url":"https://api.getgems.io/storage/simple?tk=CONFIRM&uuid=9974f4a0-1c84-428a-ba7a-3da11faeacfe"},"expires_sec":1712897680,"params":{"valid_until":1712897680,"messages":[{"address":"EQCN0-GWeGltEphTY6WkFVuVOh0nay2iCn6PYR6mwlHK837k","amount":"1270000000"}]}}}
